@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://rozetka.com.ua/ua",
+    "ignoreTestFiles": "**/examples/*",
+    "viewportHeight": 450,
+    "viewportWihdth": 1440
+     
+}
